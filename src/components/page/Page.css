@@ -60,7 +60,7 @@ h1 {
     display: flex;
     position: absolute;
     gap: 10px;
-    bottom: 50px;
+    bottom: 0;
     z-index: 1111111;
 }
 
